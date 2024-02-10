@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: monospace;
+  background-color: #3333;
+}
+
+img {
+  border-radius: 50%;
+  margin-bottom: 150px;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: left;
+  width: 50%;
+}
+.html {
+  text-align: left;
+  font-size: 30px;
+  color: aquamarine;
+}
+.css {
+  text-align: center;
+  font-size: 30px;
+  color: mintcream;
+}
+.js {
+  text-align: right;
+  font-size: 30px;
+  color: tomato;
+  margin-bottom: 150px;
+}
+.wtf {
+  background-color: black;
+  color: white;
+  li {
+    display: inline;
+    font-size: 10px;
+  }
+}
